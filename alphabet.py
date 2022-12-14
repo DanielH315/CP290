@@ -1,3 +1,5 @@
+# https://open.kattis.com/problems/alphabet 
+
 import sys
 
 #Referenced G4G Longest Common Subsequence
